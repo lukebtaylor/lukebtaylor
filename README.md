@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on Kafka Certification
 - 🌱 I’m currently learning Scala
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I once found a fossilized rock in Missouri that had what looked like a dinosaur talon in it. Sadly, not a dinosaur talon. It was actually a piece of fossilized shell. I ended up writing about it while pursuing my BA in English.
+- ⚡ Fun fact: I once found a fossilized rock in Missouri that had what looked like a dinosaur talon in it. Sadly, it was not a dinosaur talon. It was actually a piece of fossilized shell. I ended up writing about it while pursuing my BA in English.
