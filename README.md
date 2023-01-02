@@ -1,15 +1,51 @@
-### A little bit about me...
+# Luke B. Taylor
+
+This is my public GitHub profile where I work to share experience and insight. Currently, you won't find a bunch of code here, but you will find a semi-maintained blog and a tech radar.
+
+Thanks for stopping by.
+
+## A couple quick links
+
+- [My Personal Tech Radar](tech-radar.lukebtaylor.com)
+- [My Sometimes Blog](blog.lukebtaylor.com)
+
+## Contact me
+
+- Twitter [@Luke_B_Taylor](https://twitter.com/Luke_B_Taylor)
+
+## About me
+
+### I am an Engineer
+
+- Primarily focused on .NET for middle and back
+- Angular for front-end
+- MS SQL Server DB
+- Kafka
+- Azure
+- PowerShell
+- Shell Scripting
+- Python
+
+### I am an Architect
+
+- Cross-team enablement
+- Best Practices
+- Patterns
+- Reference Implementations
+- Tooling and Development Environment Containerization
+
+### I ❤️ DevOps
+
+- Terraform
+- Containerization
+- Kubernetes
+- CI/CD Pipelines
 
 <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+Emoji attribution
+- https://github.com/twitter/twemoji
+Tech Radar attributions
+- https://github.com/AOEpeople/aoe_technology_radar
+Tech Radar thank you
+- https://www.thoughtworks.com/radar
 -->
-
-- 🔭 I’m currently working on Kafka Certification
-- 🌱 I’m currently learning Scala
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I once found a fossilized rock in Missouri that had what looked like a dinosaur talon in it. Sadly, it was not a dinosaur talon. It was actually a piece of fossilized shell. I ended up writing about it while pursuing my BA in English.
-
-[Testing a Markdown Relative Link](relative_link.md)
