@@ -6,8 +6,8 @@ Thanks for stopping by.
 
 ## A couple quick links
 
-- [My Personal Tech Radar](https://tech-radar.lukebtaylor.com/index.html)
-- [My Sometimes Blog](https://blog.lukebtaylor.com/)
+- <a href="https://tech-radar.lukebtaylor.com" target="_blank">My Personal Tech Radar</a>
+- <a href="https://blog.lukebtaylor.com" target="_blank">My Sometimes Blog</a>
 
 ## Contact me
 
